@@ -174,5 +174,3 @@ seasonal_sales.pivot(index='Month', columns='Product_Category', values='Quantity
 ```python
 daily_sales.plot(kind='bar')
 ```
-
-This comprehensive, numbered approach includes precise answers and relevant Python code snippets, ensuring clarity and actionable insights.
